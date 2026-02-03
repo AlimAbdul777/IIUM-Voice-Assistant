@@ -29,6 +29,8 @@ Processing: Llama 3.1 processes the text using a system prompt that includes the
 
 Output: Generates and plays back speech via edge-tts and pygame.
 
+<img width="970" height="559" alt="image" src="https://github.com/user-attachments/assets/d98af2c3-b372-4bf1-bee8-b3911037ac69" />
+
 ## 📂 Project Structure
 
 main.py: The core application script managing the pipeline and API calls.
@@ -70,10 +72,6 @@ Academic Rules: "What is the penalty for late assignments?".
 
 
 Facility Info: "Where is the surau in KOE?".
-
-
-<img width="970" height="559" alt="image" src="https://github.com/user-attachments/assets/d98af2c3-b372-4bf1-bee8-b3911037ac69" />
-
 
 
 ## 📄 License
