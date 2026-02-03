@@ -1,7 +1,7 @@
-Mira: IIUM KOE AI Voice Assistant
+# Mira: IIUM KOE AI Voice Assistant
 Mira is an AI-driven voice assistant specifically customized for the IIUM Kulliyyah of Engineering (KOE). This project was developed as part of the Natural Language Processing (SEM12526) course to demonstrate a complete speech-to-speech pipeline.
 
-🚀 Features
+## 🚀 Features
 
 Speech-to-Text (STT): High-accuracy transcription using the Whisper-large-v3 model via Groq API.
 
@@ -17,7 +17,7 @@ Text-to-Speech (TTS): Natural human-like voice responses using Microsoft Edge-TT
 
 Local Action Handling: Real-time system queries for date and time.
 
-🛠️ System Architecture
+## 🛠️ System Architecture
 The assistant operates on a modular pipeline:
 
 Input: Captures user audio via the SpeechRecognition library.
@@ -29,7 +29,7 @@ Processing: Llama 3.1 processes the text using a system prompt that includes the
 
 Output: Generates and plays back speech via edge-tts and pygame.
 
-📂 Project Structure
+## 📂 Project Structure
 
 main.py: The core application script managing the pipeline and API calls.
 
@@ -39,7 +39,7 @@ knowledge.txt: A customized knowledge base containing KOE-specific data such as 
 
 requirements.txt: List of Python dependencies required to run the project.
 
-⚙️ Installation & Setup
+## ⚙️ Installation & Setup
 Clone the repository:
 
 Bash
@@ -52,7 +52,7 @@ Bash
 pip install -r requirements.txt
 Configure API Key: Open main.py and replace the GROQ_API_KEY placeholder with your valid Groq API key.
 
-🎙️ Usage
+## 🎙️ Usage
 Run the assistant using the following command: 
 
 Bash
@@ -76,7 +76,7 @@ Facility Info: "Where is the surau in KOE?".
 
 
 
-📄 License
+## 📄 License
 This project is for educational purposes as part of the IIUM NLP Course Project.
 
 Would you like me to help you draft a specific "How to Run" guide for your classmates who might not have Python experience?
