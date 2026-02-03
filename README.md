@@ -1,7 +1,7 @@
 # IIUM-Voice-Assistant
 
 ## IIUM KOE Voice Assistant
-]Mira is an AI assistant designed for the IIUM Kulliyyah of Engineering[cite: 58].
+Mira is an AI assistant designed for the IIUM Kulliyyah of Engineering.
 
 ## Features
 - **STT:** OpenAI Whisper (via Groq) [cite: 11]
@@ -13,4 +13,4 @@
 2. Add your Groq API Key to `main.py`.
 3. Run the script: `python main.py`
 
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/d98af2c3-b372-4bf1-bee8-b3911037ac69" />
+<img width="970" height="559" alt="image" src="https://github.com/user-attachments/assets/d98af2c3-b372-4bf1-bee8-b3911037ac69" />
