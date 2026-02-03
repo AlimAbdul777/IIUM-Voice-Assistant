@@ -9,7 +9,7 @@
 - **TTS:** Microsoft Edge TTS [cite: 14]
 
 ## How to Run
-1. Install dependencies: `pip install -r requirements.txt`
+1. Install dependencies: `pip install -r Requirements.txt`
 2. Add your Groq API Key to `main.py`.
 3. Run the script: `python main.py`
 
